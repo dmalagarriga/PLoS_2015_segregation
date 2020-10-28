@@ -1,0 +1,5 @@
+50000 # nt - Number of time steps
+5   # ntout - Number of time steps for output
+0.001 # dt - Time step
+
+

@@ -1,0 +1,12 @@
+3.25 # A in mV. It can vary from 2.6 to 9.75 mV
+100.0 # a in Hz
+22.0 # B in mV It can vary from 17.6 to 110 mV
+50.0 # b in Hz
+133.5 # c1 It can vary from 108 to 675
+2.5 #  e0 in Hz
+0.56 # r in (mV)-1
+6.0 # nu0 in mV. It can vary from 3.12, 5.52 or 6.0 mV
+10.0 # Delay inter-voxel (short-range)
+0.0 # epsilon - Noise intensity 
+0.0 # amp - amplitude of the sine input
+0.0 # f - frequency of the sine input
